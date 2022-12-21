@@ -19,4 +19,4 @@ The deck is divided evenly, with each player receiving 26 cards. Each player pla
 
 
 
-#War This is an exercise in creating the simple cardgame War using javascript and some other tools.
+#War This is an exercise in creating the simple cardgame War using javascript and some other tools
