@@ -1,6 +1,6 @@
-**## WELCOME to Game of War!**
+# **WELCOME to Game of War!**
 
-#### This is a simple version of the cardgame War. It was built using javascript and some other tools.
+# This is a simple version of the cardgame War. It was built using javascript and some other tools.
 #### When you open the console the game will autommatically run once loaded and you will be playing against the computer.
 
 **#### War** (also known as Battle in the United Kingdom) is a simple card game, typically played by two players using a standard playing card deck and often played by children. There are many variations, as well as related games.
