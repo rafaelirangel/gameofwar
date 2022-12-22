@@ -5,7 +5,7 @@
 
 **War** (also known as Battle in the United Kingdom) is a simple card game, typically played by two players using a standard playing card deck and often played by children. There are many variations, as well as related games.
 
-## **To play this game of war** [CLICK HERE!](file:///Users/rafaelirangel/Library/sandbox/portfolio/gameofwar/index.html)
+## **To play this game of war** [CLICK HERE](file:///Users/rafaelirangel/Library/sandbox/portfolio/gameofwar/index.html)
 
 ### **Rules**
 War, or Battle, is played with two players and a standard 52 playing card deck. When a new game is started, the deck is shuffled. In War, cards are ranked Aces high and 2s low. The objective of the game is to win all of the cards in the deck.
@@ -27,4 +27,4 @@ War, or Battle, is played with two players and a standard 52 playing card deck. 
  + The player who wins all of the cards, wins the game.
 
 
-#### Find more information [HERE!](https://en.wikipedia.org/wiki/War_(card_game)
+#### Find more information [HERE](https://en.wikipedia.org/wiki/War_(card_game)
